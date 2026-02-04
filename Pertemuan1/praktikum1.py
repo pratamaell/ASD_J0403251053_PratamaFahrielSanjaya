@@ -46,7 +46,7 @@ print("=================================================")
 data_mahasiswa = []
 with open('data_mahasiswa.txt', 'r', encoding='utf-8') as file:
     for baris in file :
-        baris= baris.strip()
+        baris= baris.strip()#menghilangkan karakter newline
         nim,nama,nilai= baris.split(',')
         data_mahasiswa.append((nim,nama,int(nilai)))
 
