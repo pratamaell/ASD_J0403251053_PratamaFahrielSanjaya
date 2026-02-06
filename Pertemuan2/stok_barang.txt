@@ -1,0 +1,11 @@
+BRG001,Roti,20
+BRG002,AirMineral,15
+BRG003,TehBotol,10
+BRG004,SabunMandi,45
+BRG005,Kecap,46
+BRG006,Tisu,44
+BRG007,Shampo,23
+BRG008,PastaGigi,12
+BRG009,Baygon,5
+BRG010,Tango,60
+BRG011,TehCelup,13
