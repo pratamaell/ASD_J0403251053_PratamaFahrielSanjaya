@@ -20,7 +20,7 @@ def insertion_sort(data):
             j -= 1 #geser ke elemen sebelah kiri
         data[j + 1] = key #sisipkan key di posisi yang benar
 
-    return data
+    return data 
 
 #contoh penggunaan
 angka = [7,8,5,2,4,6]
